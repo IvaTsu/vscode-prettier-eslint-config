@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/IvaTsu/vscode-prettier-eslint-config/issues"
   },
-  "homepage": "https://github.com/IvaTsu/vscode-prettier-eslint-config#readme"
+  "homepage": "https://github.com/IvaTsu/vscode-prettier-eslint-config#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
 }

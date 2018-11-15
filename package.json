@@ -1,0 +1,26 @@
+{
+  "name": "vscode-prettier-eslint-config",
+  "version": "0.0.1",
+  "description": "A simple starter that contains configuration for VSCode with Prettier and ESLint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvaTsu/vscode-prettier-eslint-config.git"
+  },
+  "keywords": [
+    "VSCode",
+    "Prettier",
+    "ESLint",
+    "Config",
+    "Setup"
+  ],
+  "author": "Ivan Tsud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvaTsu/vscode-prettier-eslint-config/issues"
+  },
+  "homepage": "https://github.com/IvaTsu/vscode-prettier-eslint-config#readme"
+}

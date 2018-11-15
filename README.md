@@ -11,6 +11,7 @@
 Here are some prerequisites steps:
 
 - Make sure that you have `npm` is installed. See https://www.npmjs.com/get-npm.
+- Make sure that `npx` is installed. See https://github.com/zkat/npx.
 - Download [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions for VSCode.
 - Step n.
 

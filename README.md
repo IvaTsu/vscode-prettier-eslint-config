@@ -8,10 +8,10 @@
 
 ## Prerequisites
 
-Write here the steps for prerequisites (if needed).
+Here are some prerequisites steps:
 
-- Step 1.
-- Step 2.
+- Make sure that you have `npm` is installed. See https://www.npmjs.com/get-npm.
+- Download [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions for VSCode.
 - Step n.
 
 ## Installing / Getting started

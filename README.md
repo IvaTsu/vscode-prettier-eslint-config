@@ -13,11 +13,31 @@ Here are some prerequisites steps:
 - Make sure that you have `npm` is installed. See https://www.npmjs.com/get-npm.
 - Make sure that `npx` is installed. See https://github.com/zkat/npx.
 - Download [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions for VSCode.
-- Step n.
 
 ## Installing / Getting started
 
 A quick introduction of the minimal setup you need to get a project up & running.
+
+### Install this into your project dependency:
+
+- Install ESLint and Prettier to the dev dependencies:
+
+  ```sh
+  npm install -D eslint prettier
+  ```
+
+- Install the pack of [Airbnb config](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) dev dependencies:
+
+  ```sh
+  npx install-peerdeps --dev eslint-config-airbnb
+  ```
+
+  NB! you have to have `npm` v5+.
+
+- Install [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) and [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)
+  ```sh
+  npm install -D eslint-config-prettier eslint-plugin-prettier
+  ```
 
 ## Usage example
 
